@@ -1,3 +1,4 @@
 the windows cloud anydesk on tuonglam
 
-how to: register on account and create 
+how to: register on account and create Repository and download
+the 
